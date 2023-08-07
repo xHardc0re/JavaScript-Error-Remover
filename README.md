@@ -56,7 +56,7 @@ To use the **JavaScript Error Remover**, follow these steps:
 
 4. If errors are found, it will delete the entire JavaScript file.
 
-   **Note:** The file deletion is permanent, and the deleted file cannot be recovered. Always have a backup of your files before running the script.
+   **Note:** The file deletion is permanent, and the deleted file cannot be recovered.
 
 5. If no errors are found, it will display a message indicating that no errors were detected.
 
