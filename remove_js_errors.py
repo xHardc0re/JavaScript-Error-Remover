@@ -28,7 +28,7 @@ def find_and_remove_errors(filename):
 def main(filename):
     """
     A CLI app to delete the JavaScript file if errors are found.
-    Please do not use :)
+    Please do not use
     """
     find_and_remove_errors(filename)
 
